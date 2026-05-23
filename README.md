@@ -19,7 +19,7 @@ FEATURES
 REQUIREMENTS
 ----------------------------------------
 - Windows PC
-- Baldi’s Basics Classic Remastered (Steam/Epic version)
+- Baldi’s Basics Classic Remastered (Steam)
 - Internet connection (for first-time BepInEx setup)
 - Python 3.10+ (if running source code version)
 
